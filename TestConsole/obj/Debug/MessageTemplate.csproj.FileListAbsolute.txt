@@ -1,0 +1,8 @@
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\bin\Debug\MessageTemplate.exe.config
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\bin\Debug\MessageTemplate.exe
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\bin\Debug\MessageTemplate.pdb
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\bin\Debug\Newtonsoft.Json.dll
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\bin\Debug\Newtonsoft.Json.xml
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\obj\Debug\MessageTemplate.csprojResolveAssemblyReference.cache
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\obj\Debug\MessageTemplate.exe
+c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\MessageTemplate\obj\Debug\MessageTemplate.pdb
