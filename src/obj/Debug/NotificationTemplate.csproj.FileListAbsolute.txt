@@ -1,5 +1,0 @@
-c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\TextTemplate\obj\Debug\NotificationTemplate.csprojResolveAssemblyReference.cache
-c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\TextTemplate\bin\Debug\NotificationTemplate.dll
-c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\TextTemplate\bin\Debug\NotificationTemplate.pdb
-c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\TextTemplate\obj\Debug\NotificationTemplate.dll
-c:\users\zjin\documents\visual studio 2017\Projects\MessageTemplate\TextTemplate\obj\Debug\NotificationTemplate.pdb
